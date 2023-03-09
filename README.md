@@ -367,3 +367,5 @@ to get practice with all of them as you progress through this phase!
 - [Understanding The Differences Between Puts, Print & P](https://www.rubyguides.com/2018/10/puts-vs-print/)
 - [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [RSpec Documentation](https://rspec.info/)
+
+https://github.com/G3o-R/phase-3-running-ruby-code
